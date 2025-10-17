@@ -66,19 +66,19 @@ I love building intelligent systems, mobile apps, and modern web solutions that 
 
 ## 📊 GitHub Stats
 
-![Souhaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souhaibouanzar\&show_icons=true\&theme=radical\&cache_seconds=1800)
+![Souhaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souhaib-ouanzar\&show_icons=true\&theme=radical\&cache_seconds=1800)
 
 ---
 
 ## 🔤 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souhaibouanzar\&layout=compact\&langs_count=8\&theme=radical\&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souhaib-ouanzar\&layout=compact\&langs_count=8\&theme=radical\&cache_seconds=1800)
 
 ---
 
 ## 📈 Contribution Graph
 
-![Souhaib's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=souhaibouanzar\&theme=react-dark\&bg_color=0d1117\&hide_border=true\&area=true)
+![Souhaib's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=souhaib-ouanzar\&theme=react-dark\&bg_color=0d1117\&hide_border=true\&area=true)
 
 ---
 
